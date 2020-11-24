@@ -8,6 +8,10 @@ This example is to show different parts of the Git repository and varius command
 
 ## Purpose
 
+As stated above the main purpose is to provide simple example for Git training demos.
+
 ## Deployment
+
+This is a simple web project, deployment can be only in web server or even local file system.
 
 ## How To Contribute
